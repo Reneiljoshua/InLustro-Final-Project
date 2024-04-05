@@ -8,7 +8,7 @@ This project is dedicated to classifying biomedical text publications into speci
 
 The dataset used in this project is sourced from reputable journals and databases, encompassing a diverse range of cancer-related research articles. Each publication is meticulously labeled with the corresponding cancer type, including Thyroid Cancer, Colon Cancer, and Lung Cancer among others. You can explore the dataset in more detail on [**https://www.kaggle.com/dataset**](https://www.kaggle.com/datasets/falgunipatel19/biomedical-text-publication-classification).
 
-##Problem Statement:
+## Problem Statement:
 
 Biomedical research generates a vast amount of textual data, including research articles, clinical reports, and scholarly publications, which contain valuable insights into various aspects of cancer biology, treatment, and management. However, the sheer volume and complexity of this data make it challenging for researchers and clinicians to efficiently extract relevant information and identify trends or patterns.
 
@@ -20,7 +20,7 @@ Therefore, the problem statement revolves around developing a robust and scalabl
 
 To run the code locally, follow these steps:
 
-1. Clone this repository:
+1. Clone this repository: https://github.com/Reneiljoshua/Text-Classification-for-Biomedical-Publications-with-CNN-and-LSTM.git
 
 2. Install the required dependencies:
 
