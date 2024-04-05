@@ -4,10 +4,6 @@
 
 This project is dedicated to classifying biomedical text publications into specific cancer types using state-of-the-art deep learning techniques. By leveraging Convolutional Neural Networks (CNNs) and Long Short-Term Memory (LSTM) networks, our aim is to facilitate cancer research and enhance clinical decision-making processes in oncology.
 
-## Data 📊
-
-The dataset used in this project is sourced from reputable journals and databases, encompassing a diverse range of cancer-related research articles. Each publication is meticulously labeled with the corresponding cancer type, including Thyroid Cancer, Colon Cancer, and Lung Cancer among others. You can explore the dataset in more detail on [**https://www.kaggle.com/dataset**](https://www.kaggle.com/datasets/falgunipatel19/biomedical-text-publication-classification).
-
 ## Problem Statement:
 
 Biomedical research generates a vast amount of textual data, including research articles, clinical reports, and scholarly publications, which contain valuable insights into various aspects of cancer biology, treatment, and management. However, the sheer volume and complexity of this data make it challenging for researchers and clinicians to efficiently extract relevant information and identify trends or patterns.
@@ -42,3 +38,7 @@ To run the code locally, follow these steps:
 
 ## Further Documentation 📑
 For more detailed information, please refer to the presentation documentation included in the `docs/` directory. You can also explore the Kaggle dataset and additional resources to gain deeper insights into the project.
+
+## Data 📊
+
+The dataset used in this project is sourced from reputable journals and databases, encompassing a diverse range of cancer-related research articles. Each publication is meticulously labeled with the corresponding cancer type, including Thyroid Cancer, Colon Cancer, and Lung Cancer among others. You can explore the dataset in more detail on [**https://www.kaggle.com/dataset**](https://www.kaggle.com/datasets/falgunipatel19/biomedical-text-publication-classification).
