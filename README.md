@@ -20,8 +20,7 @@ Therefore, the problem statement revolves around developing a robust and scalabl
 
 To run the code locally, follow these steps:
 
-1. Clone this repository: https://github.com/Reneiljoshua/Text-Classification-for-Biomedical-Publications-with-CNN-and-LSTM.git
-
+1. Clone this repository:(https://github.com/Reneiljoshua/Text-Classification-for-Biomedical-Publications-with-CNN-and-LSTM/blob/main/Text%20Classification%20for%20Biomedical%20Publications%20with%20CNN%20and%20LSTM.ipynb)
 2. Install the required dependencies:
 
 ## Usage 🚀
