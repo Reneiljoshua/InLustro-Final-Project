@@ -2,7 +2,7 @@
 
 ## Overview ℹ️
 
-This project is dedicated to classifying biomedical text publications into specific cancer types using state-of-the-art deep learning techniques. By leveraging Convolutional Neural Networks (CNNs) and Long Short-Term Memory (LSTM) networks, our aim is to facilitate cancer research and enhance clinical decision-making processes in oncology.
+This project is dedicated to classifying biomedical text publications into specific cancer types using state-of-the-art deep learning techniques. By leveraging Convolutional Neural Networks (CNNs) and Long Short-Term Memory (LSTM) networks, our aim is to facilitate cancer research and enhance clinical decision-making processes in field of oncology.
 
 ## Problem Statement:
 
